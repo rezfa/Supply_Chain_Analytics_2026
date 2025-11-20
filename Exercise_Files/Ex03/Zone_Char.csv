@@ -1,0 +1,5 @@
+﻿Zones,Zone_name,HSC_NSD_Share,HSC_NSD_Cost,Available_Land,Emission_cost,H2_Curtail_cost
+1,Groningen,0.1,500,6.225,150,1000000
+2,Fryslan,0.1,500,31.23,150,1000000
+3,Drenthe,0.1,500,10.8675,150,1000000
+4,Overijssel,0.1,500,3.0805,150,1000000
