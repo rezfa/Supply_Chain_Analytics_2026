@@ -1,7 +1,7 @@
-﻿HSC_Pipelines,Pipe_Path,z1,z2,z3,z4,Existing_Num_Pipes,Max_pipe_cap_tonne,Investment_cost_per_length,FOM_per_length,Distance
-1,Groningen_to_Drenthe,-1,0,1,0,0,250,30900,0,60.5
-2,Groningen_to_Fryslan,-1,1,0,0,0,250,30900,0,44.7
-3,Drenthe_to_Overijssel,0,0,-1,1,0,250,30900,0,47.5
-4,Fryslan_to_Drenthe,0,-1,1,0,0,250,30900,0,59
-5,Groningen_Overijssel,-1,0,0,1,0,250,30900,0,91
-6,Fryslan_to_Overijssel,0,0,0,0,0,250,30900,0,96
+﻿HSC_Pipelines,Pipe_Path,z1,z2,z3,z4,Existing_Num_Pipes,Max_pipe_cap_tonne,Investment_cost_per_capacity,FOM_per_capacity,Distance
+1,Groningen_to_Drenthe,-1,0,1,0,0,250,1869450,0,60.5
+2,Groningen_to_Fryslan,-1,1,0,0,0,250,1381230,0,44.7
+3,Drenthe_to_Overijssel,0,0,-1,1,0,250,1467750,0,47.5
+4,Fryslan_to_Drenthe,0,-1,1,0,0,250,1823100,0,59
+5,Groningen_Overijssel,-1,0,0,1,0,250,2811900,0,91
+6,Fryslan_to_Overijssel,0,0,0,0,0,250,2966400,0,96
